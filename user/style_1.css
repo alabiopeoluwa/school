@@ -1,0 +1,24 @@
+*{margin:0; padding:0}
+#container{border: 0px solid blue; width:80%; margin:10px auto;}
+#header{border:0px solid blue; width:1065px; height:100px; margin:5px; text-align:center;  background-color:#999; text-align:center}
+#centre{border:0px solid blue; width:1065px; height:100px; margin:5px; text-align:center;}
+#nav{border:0px solid blue; width:1060px; height:70px; margin:10px; background-color:#999; text-align:center;}
+#content{border:0px solid blue; width:1065px; height:500px; margin:5px; background-image:url(kids-in-uniforms.png);}
+#footer{border:0px solid blue; width:1065px; height:60px; margin:0px; background-color:#000; color:#FFF;}
+#nav a{color: #000;font-family:Georgia, "Times New Roman", Times, serif;padding:20px;width:204px;display:inline-block;text-decoration:none;letter-spacing:1px;border-right:0; line-height:1px; padding:0; text-align:center}
+#nav a:hover{color: #39F;text-decoration:none;letter-spacing:3px;}
+h1{letter-spacing:7px; color: #FFF; font-size:xx-large;}
+#footer a{color: #F00; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; padding:20px; width:164px; display:inline-block;
+text-decoration:none; letter-spacing:3px; text-align: right}
+#centre p{color:#0C0; font-family:"Comic Sans MS", cursive;}
+#form{-moz-border-radius:15px;}
+#form1{color: #39F; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:14px; letter-spacing: 1px;}
+#nav p{color: #F00;}
+#centre1{border:0px solid blue; width:1065px; margin:5px; text-align:center;}
+.form1, .form2{color: #3F0;font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;font-size:16px;letter-spacing:2px;margin-left:10px;}
+#content input[type="text"], #content input[type="password"]{height:10px;padding:10px;border:1px solid #39C;}
+#content input[type="submit"]{border:0px solid #39F;width:135px;height:35px;margin-left:0px;font-family: "Arial Black", Gadget, sans-serif;font-size:16px;padding:5px;color:#3F0;
+letter-spacing:2px;background-color:#FFC;}
+table{border-collapse:collapse; width:1068px;}
+th{font-family:Tahoma, Geneva, sans-serif;color:#639;letter-spacing:1px;padding:5px;}
+td{color:#9F9;font-family:"Arial Black", Gadget, sans-serif;font-size:14px;padding:10px;letter-spacing:1px;word-spacing:2px;}
